@@ -1,0 +1,3 @@
+# Decentralized-Voting-Application
+This is a Decentralized Voting Application based on solidity Smart contract, React, Next.JS, etc.
+This is the project that I have made using solidity, react, nextjs etc. I have made an decentralized application which works on the concept of blockchain technology where you can make different voting systems. In those voting systems you can add different politician names, political parties. Different people will vote those politicians. One human can vote only one time. You can also get the result of who won the election. Those who will get more than 50% of the votes will win the election.
